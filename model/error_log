@@ -1,0 +1,14 @@
+[03-Jul-2021 11:25:04 Asia/Bangkok] PHP Fatal error:  Call to undefined method System::setting() in /home/taoshop1/shopvinhxinhtrai.com/model/card_callback.php on line 7
+[03-Jul-2021 15:45:42 Asia/Bangkok] PHP Fatal error:  Call to undefined method System::setting() in /home/taoshop1/shopvinhxinhtrai.com/model/card_callback.php on line 7
+[03-Jul-2021 16:02:37 Asia/Bangkok] PHP Fatal error:  Call to undefined method System::setting() in /home/taoshop1/shopvinhxinhtrai.com/model/card_callback.php on line 7
+[03-Jul-2021 16:07:39 Asia/Bangkok] PHP Fatal error:  Call to undefined method System::setting() in /home/taoshop1/shopvinhxinhtrai.com/model/card_callback.php on line 7
+[03-Jul-2021 16:19:01 Asia/Bangkok] PHP Fatal error:  Call to undefined method System::setting() in /home/taoshop1/shopvinhxinhtrai.com/model/card_callback.php on line 7
+[03-Jul-2021 16:24:02 Asia/Bangkok] PHP Fatal error:  Call to undefined method System::setting() in /home/taoshop1/shopvinhxinhtrai.com/model/card_callback.php on line 7
+[03-Jul-2021 16:24:29 Asia/Bangkok] PHP Fatal error:  Call to undefined method System::setting() in /home/taoshop1/shopvinhxinhtrai.com/model/card_callback.php on line 7
+[03-Jul-2021 16:24:44 Asia/Bangkok] PHP Fatal error:  Call to undefined method System::setting() in /home/taoshop1/shopvinhxinhtrai.com/model/card_callback.php on line 7
+[03-Jul-2021 16:26:07 Asia/Bangkok] PHP Fatal error:  Call to undefined method System::setting() in /home/taoshop1/shopvinhxinhtrai.com/model/card_callback.php on line 7
+[03-Jul-2021 16:26:42 Asia/Bangkok] PHP Fatal error:  Call to undefined method System::setting() in /home/taoshop1/shopvinhxinhtrai.com/model/card_callback.php on line 7
+[03-Jul-2021 16:26:50 Asia/Bangkok] PHP Fatal error:  Call to undefined method System::setting() in /home/taoshop1/shopvinhxinhtrai.com/model/card_callback.php on line 7
+[03-Jul-2021 16:26:51 Asia/Bangkok] PHP Fatal error:  Call to undefined method System::setting() in /home/taoshop1/shopvinhxinhtrai.com/model/card_callback.php on line 7
+[03-Jul-2021 16:27:02 Asia/Bangkok] PHP Fatal error:  Call to undefined method System::setting() in /home/taoshop1/shopvinhxinhtrai.com/model/card_callback.php on line 7
+[17-Jul-2021 16:15:20 Asia/Ho_Chi_Minh] PHP Fatal error:  Class 'System' not found in /home/thopmuoitacom/shopgame247.com/model/atm.php on line 3

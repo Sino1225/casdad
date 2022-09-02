@@ -1,0 +1,4 @@
+[17-Jul-2021 16:20:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function connect_db() on null in /home/thopmuoitacom/shopgame247.com/view/footer.php on line 327
+[18-Jul-2021 14:54:00 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function connect_db() on null in /home/thopmuoitacom/shopgame247.com/view/profile/atm.php on line 2
+[18-Jul-2021 14:54:04 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function connect_db() on null in /home/thopmuoitacom/shopgame247.com/view/profile/atm.php on line 2
+[18-Jul-2021 14:54:06 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function connect_db() on null in /home/thopmuoitacom/shopgame247.com/view/profile/atm.php on line 2
